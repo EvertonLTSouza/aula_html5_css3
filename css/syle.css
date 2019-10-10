@@ -1,0 +1,17 @@
+body {
+    background: rgb(185, 32, 32);
+    margin-left: 50px;
+}
+
+h1 {
+    color: red;
+    font-family: fantasy;
+}
+
+h2 {
+    font-family: fantasy;
+}
+
+p {
+    font-size: 18px;
+}
